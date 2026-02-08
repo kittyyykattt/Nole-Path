@@ -4,7 +4,7 @@
 https://kittyyykattt.github.io/Nole-Path/
 
 ---
- <img src="attached-assets/dashboard-NP.png" alt="Dashboard - Nole Path" width="500"/>
+ <img src="./attached-assets/dashboard-NP.png" alt="Dashboard - Nole Path" width="500"/>
 
 
 
