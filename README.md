@@ -1,4 +1,4 @@
-# Nole Path 🚀
+# Nole Path 🍢
 
 👉 **Live Demo:**  
 https://kittyyykattt.github.io/Nole-Path/
