@@ -88,7 +88,6 @@ npm run build
 
 ---
 
-Author
 Katya Serechenko
 Computer Science @ Florida State University
 
