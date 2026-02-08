@@ -58,6 +58,17 @@ The frontend is deployed as a static build for fast global delivery, while the b
 
 ---
 
+
+## Future Improvements
+- Live AI integrations
+- Authentication system
+- Real-time internship scraping
+- Cloud backend deployment
+- Advanced ATS scoring
+- Personalized career roadmaps
+
+---
+
 ## Running Locally
 
 Clone the repository:
@@ -74,25 +85,6 @@ npm run dev
 
 ## Build for Production
 npm run build
-
----
-
-## What This Project Demonstrates
-- Production-style project structure
-- Modern React development
-- Type-safe architecture
-- API design patterns
-- Full-stack readiness
-- Professional deployment workflow
-
-
-## Future Improvements
-- Live AI integrations
-- Authentication system
-- Real-time internship scraping
-- Cloud backend deployment
-- Advanced ATS scoring
-- Personalized career roadmaps
 
 ---
 
